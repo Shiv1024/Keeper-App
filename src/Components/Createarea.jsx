@@ -25,7 +25,6 @@ function CreateArea(props){
         event.preventDefault();
     }
     return(<div>
-        <h1>hi</h1>
         <form className="form">
             <input className="form-input"
              name="title"
